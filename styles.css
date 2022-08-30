@@ -221,7 +221,7 @@ span{
 .card__img{
   width: 100%;
   height: 150px;
-  background-image: url(/PortafolioResp2/img/img-css.png);
+  background-image: url(/img/img-css.png);
   background-size: cover;
 
 }
@@ -283,7 +283,7 @@ span{
   
   display: flex;
   padding: 5rem;
-  background-image:url(/PortafolioResp2/img/opacity-img.png);
+  background-image:url(/img/opacity-img.png);
   background-color:#191c32;
   
   background-size: contain;
